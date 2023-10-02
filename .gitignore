@@ -1,0 +1,6 @@
+build
+.deps
+bin
+obj
+
+.vscode
